@@ -1,0 +1,1 @@
+console.log("Le JS est bien lié !");
